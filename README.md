@@ -88,6 +88,7 @@ The frontend displays the following components on a single page:
 # Screenshots
 
 1. **Bar Graph**
+   ![Project Screenshot](./frontend/src/assets/bargraph.png)
     
 
 
