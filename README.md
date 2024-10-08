@@ -99,11 +99,11 @@ The frontend displays the following components on a single page:
        ![Project Screenshot](./frontend/src/assets/piagraph.png)
 
 
-3.**Transactions Table**
-     - Lists transactions based on the selected month and allows **search** functionality.
-     - Displays paginated transaction data with **next** and **previous** buttons
+3.  **Transactions Table**
+      - Lists transactions based on the selected month and allows **search** functionality.
+      - Displays paginated transaction data with **next** and **previous** buttons
      
-      ![Project Screenshot](./frontend/src/assets/transactionlist.png)
+        ![Project Screenshot](./frontend/src/assets/transactionlist.png)
     
 
     
