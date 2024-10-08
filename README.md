@@ -85,7 +85,10 @@ The frontend displays the following components on a single page:
     -Backend: Node.js, Express, MongoDB
     -API Integration: Fetching data from a third-party API
 
-# Screenshot
+# Screenshots
+
+1. **Bar Graph**
+    
 
 
 
