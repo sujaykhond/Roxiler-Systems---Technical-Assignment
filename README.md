@@ -102,7 +102,7 @@ The frontend displays the following components on a single page:
 3.**Transactions Table**
      - Lists transactions based on the selected month and allows **search** functionality.
      - Displays paginated transaction data with **next** and **previous** buttons
-
+     
   ![Project Screenshot](./frontend/src/assets/transactionlist.png)
     
 
