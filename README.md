@@ -88,7 +88,15 @@ The frontend displays the following components on a single page:
 # Screenshots
 
 1. **Bar Graph**
+   
    ![Project Screenshot](./frontend/src/assets/bargraph.png)
+
+2.**Pie Chart**
+  - Shows the number of items in each category for the selected month using a pie chart.
+
+      ![Project Screenshot](./frontend/src/assets/piagraph.png)
+
+    
     
 
 
