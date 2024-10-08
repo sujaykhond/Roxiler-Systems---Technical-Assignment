@@ -88,6 +88,25 @@ The frontend displays the following components on a single page:
 # Screenshots
 
 1. **Bar Graph**
+     - Visualizes the price ranges and the number of items sold in those ranges using a bar chart.
+   
+      ![Project Screenshot](./frontend/src/assets/bargraph.png)
+
+
+2. **Pie Chart**
+     - Shows the number of items in each category for the selected month using a pie chart.
+
+       ![Project Screenshot](./frontend/src/assets/piagraph.png)
+
+
+3.**Transactions Table**
+    - Lists transactions based on the selected month and allows **search** functionality.
+    - Displays paginated transaction data with **next** and **previous** buttons
+
+  ![Project Screenshot](./frontend/src/assets/transactionlist.png)
+    
+
+    
     
 
 
