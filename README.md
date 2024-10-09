@@ -81,9 +81,10 @@ The frontend displays the following components on a single page:
 
 
 ## **Tools and Technologies**
+ 
  -Frontend: React.js, Tailwind CSS, Chart.js
-  -Backend: Node.js, Express, MongoDB
-   -API Integration: Fetching data from a third-party API
+ -Backend: Node.js, Express, MongoDB
+ -API Integration: Fetching data from a third-party API
 
 # Screenshots
 
