@@ -77,13 +77,13 @@ The frontend displays the following components on a single page:
    ```sh
    npm run dev
 
-6.**Access the application at http://localhost:3000.**
+6.**Access the application at http://localhost:5000.**
 
 
 ## **Tools and Technologies**
-    -Frontend: React.js, Tailwind CSS, Chart.js
-    -Backend: Node.js, Express, MongoDB
-    -API Integration: Fetching data from a third-party API
+ -Frontend: React.js, Tailwind CSS, Chart.js
+  -Backend: Node.js, Express, MongoDB
+   -API Integration: Fetching data from a third-party API
 
 # Screenshots
 
